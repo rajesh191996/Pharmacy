@@ -7,6 +7,12 @@ public class Test1 {
 		//need to write the test cases
 		
 		System.out.println("Welcome rajesh");
+		System.out.println("Welcome rajesh");
+		System.out.println("Welcome rajesh");
+		System.out.println("Welcome rajesh");
+		System.out.println("Welcome rajesh");
+		System.out.println("Welcome rajesh");
+		
 		
 	}
 
